@@ -1,2 +1,5 @@
 __pycache__
 .ipynb_checkpoints
+project_image_classification/Create_df_ToPredict.py
+project_image_classification/DataScience.docx
+project_image_classification/XGBoost_Predict.py
